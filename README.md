@@ -15,28 +15,10 @@ Bu çalışma, Manyetik Rezonans (MR) görüntüleri üzerinden beyin tümörler
 
 ---
 
-## 🇺🇸 English Project Overview
-This project is a medical image analysis application designed to detect brain tumors from MRI scans with high accuracy. By utilizing a **Transfer Learning** strategy, a pre-trained **MobileNetV2** architecture was optimized on a dataset containing approximately 3,000 MRI images.
+## 🚀 Kurulum ve Çalıştırma / Installation
 
-### 🚀 Key Features
-- **Model Architecture:** MobileNetV2 (Fine-tuned for medical imaging).
-- **Dataset:** ~3,000 MRI scans (Br35H & Public Datasets).
-- **Accuracy:** Reached **98.5% validation accuracy**.
-- **Hardware:** Optimized for **Apple Silicon (M1)** using TensorFlow-Metal.
+Projeyi bilgisayarınızda çalıştırmak için terminal veya komut satırını açarak aşağıdaki adımları sırasıyla uygulayın:
 
----
-
-## 📂 Teknik Detaylar / Technical Details
-* **Veri Seti:** Br35H Dataset (~3000 MR görüntüsü).
-* **Donanım:** Apple Silicon (M1) üzerinde GPU hızlandırmalı eğitim.
-* **Performans:** Test verisi üzerinde **%98.5 doğruluk (accuracy)** skoru.
-
-## 🛠️ Kullanılan Araçlar / Tech Stack
-* TensorFlow / Keras
-* OpenCV & PIL
-* Matplotlib & NumPy
-* IPyWidgets (Interactive Interface)
-
----
-**Geliştirici / Developer:** Samet Yardımcı (Straure)
-*Mehmet Akif Ersoy Üniversitesi - Bilişim Sistemleri ve Teknolojileri Bölümü*
+**1. Projeyi Klonlayın (Clone the Repo):**
+```bash
+git clone [https://github.com/Straure/Brain-Tumor-Detection-AI.git](https://github.com/Straure/Brain-Tumor-Detection-AI.git)
