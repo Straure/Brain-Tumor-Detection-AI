@@ -19,6 +19,7 @@ Bu çalışma, Manyetik Rezonans (MR) görüntüleri üzerinden beyin tümörler
 
 Projeyi bilgisayarınızda çalıştırmak için terminali açın ve aşağıdaki komut bloğunu sırasıyla uygulayın:
 
+⚠️ ÖNEMLİ ADIM / IMPORTANT STEP: Model dosyasının boyutu büyük olduğu için GitHub ana dosya listesinde yer almamaktadır. Lütfen sağ taraftaki "Releases" kısmından .keras uzantılı model dosyasını indirin ve proje klasörünün içine atın.
 ```bash
 # 1. Projeyi Klonlayın (Clone the repository)
 git clone [https://github.com/Straure/Brain-Tumor-Detection-AI.git](https://github.com/Straure/Brain-Tumor-Detection-AI.git)
